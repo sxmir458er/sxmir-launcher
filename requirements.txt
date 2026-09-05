@@ -1,0 +1,4 @@
+customtkinter>=5.2.0
+minecraft-launcher-lib>=6.4
+nbtlib>=2.0.4
+requests>=2.31.0
